@@ -1,7 +1,7 @@
 ##Numbers
 ##-Integers and Floats
 ##-Basic Arithmetic
-##-Differences between Pythong 2 vs 3 in division
+##-Differences between Python 2 vs 3 in division
 ##-Object Assignment
 
 ##Basic Arithmetic 
